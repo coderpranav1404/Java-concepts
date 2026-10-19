@@ -28,4 +28,22 @@ if(year%400==0)or(year%4==0)and(year%100!=0):
    print("leap year")
 else:
    print("nonleap year")
+
+
+#to find second largest no. in list
+list=[3,5,8,6]
+list.sort()
+print(list[-2])
+#To add at last
+a=[4,6,9]
+a.append(6)
+print(a)
+#To remove
+a=[4,6,9]
+a.remove(9)#removes a value in list only
+print(a)
+#
+a=[4,6,9]
+del a[0] # del by index
+print(a)
    
