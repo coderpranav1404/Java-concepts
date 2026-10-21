@@ -11,3 +11,4 @@ public class solve{
   //to print miltiple things in a line
    System.out.print(a+" "+b+"hi");
     }}
+  
