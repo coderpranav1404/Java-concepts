@@ -12,3 +12,5 @@ public class solve{
    System.out.print(a+" "+b+"hi");
     }}
   
+
+    
