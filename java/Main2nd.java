@@ -15,4 +15,5 @@ System.out.println("you are eligible");//println takes us to nextline
 else{
 System.out.println("not elegible");
 }}}
+//
 
