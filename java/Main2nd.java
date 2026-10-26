@@ -14,7 +14,17 @@ System.out.println("you are eligible");//println takes us to nextline
 }
 else{
 System.out.println("not elegible");
-}}}
+}
 //
 //
+int button=sc.nextInt();
+switch(button){
+case 1:System.out.println("DOG");
+break;
+case 2:System.out.println("CAT");
+break;
+default:System.out.println("DONKEY");}
+}
+}
+
 
