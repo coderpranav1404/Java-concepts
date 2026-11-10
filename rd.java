@@ -22,4 +22,18 @@ public class  rd {
         }
         }System.out.println();}
         
-    }}
+    
+
+    //inverted half pyramid
+    for(int i=n;i>=1;i--){   //if you  want only half pyramid thenoly bring changes in outer loop i.e(i=1;i<=n;i++) baki as it is
+        for(int j=1;j<=n;j++){
+        System.out.print("*");
+        }System.out.println();
+        }
+        //
+        for(int i=1;i<=n;i++){
+        for(int j=1;j<=n;j++){
+        System.out.print(j);
+        }
+        }}}
+        
